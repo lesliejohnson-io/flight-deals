@@ -1,4 +1,4 @@
-# ✈️ Flight Deals Finder
+# ☁︎ ✈︎ Flight Deals Finder
 
 **Search international flight deals, update Google Sheets via Sheety, and send instant Pushover alerts when prices drop.**
 
@@ -158,7 +158,7 @@ ORD → Paris: 645.23 (4 flights)
 
 ### Pushover Notification
 
-<img src="screenshot.png" width="600">
+<img src="screenshot.png" width="400">
 
 ---
 
